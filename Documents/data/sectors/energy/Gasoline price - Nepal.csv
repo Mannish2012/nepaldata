@@ -1,0 +1,7 @@
+Source: IEA World Energy Prices https://www.iea.org/data-and-statistics/data-product/energy-prices
+Documentation: https://iea.blob.core.windows.net/assets/956a87f9-37c0-40fc-8886-25cb79a05cbe/EPT_Documentation.pdf
+This data is subject to the IEA's terms and conditions: https://www.iea.org/terms
+
+,"Regular motor gasoline ",Units
+2017,0.95,USD/liter
+2019,0.97,USD/liter
