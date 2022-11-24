@@ -1,0 +1,12 @@
+Source: IEA World Energy Balances https://www.iea.org/data-and-statistics/data-product/world-energy-statistics-and-balances
+Documentation: https://iea.blob.core.windows.net/assets/20a89a1b-634c-41f1-87d1-d218f07769fb/WORLDBAL_Documentation.pdf
+This data is subject to the IEA's terms and conditions: https://www.iea.org/terms
+
+,Imports,Exports,Units
+1990,122,-292,TJ
+1995,263,-313,TJ
+2000,817,-454,TJ
+2005,958,-349,TJ
+2010,2498,-112,TJ
+2015,6401,-11,TJ
+2019,6224,-385,TJ
